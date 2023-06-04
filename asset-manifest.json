@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kevinuriarte/reactPortfolio/static/css/main.cc60a82e.css",
+    "main.js": "/kevinuriarte/reactPortfolio/static/js/main.8dfb98a8.js",
+    "static/media/heroimage.jpeg": "/kevinuriarte/reactPortfolio/static/media/heroimage.3cb5e035db83e2c3806e.jpeg",
+    "static/media/MuSearchDemo.gif": "/kevinuriarte/reactPortfolio/static/media/MuSearchDemo.e1d7e5fa0ec3eebe8516.gif",
+    "static/media/MarketingWebpage.png": "/kevinuriarte/reactPortfolio/static/media/MarketingWebpage.d9ae28316fcb4d19ce23.png",
+    "static/media/WeatherDashboard.gif": "/kevinuriarte/reactPortfolio/static/media/WeatherDashboard.62271c1d27503ac6762a.gif",
+    "static/media/CodingQuiz.gif": "/kevinuriarte/reactPortfolio/static/media/CodingQuiz.df650b3cf6020bb8752c.gif",
+    "static/media/graphql.png": "/kevinuriarte/reactPortfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/react.png": "/kevinuriarte/reactPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/kevinuriarte/reactPortfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/kevinuriarte/reactPortfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/PasswordGenerator.png": "/kevinuriarte/reactPortfolio/static/media/PasswordGenerator.aa25cbf89939def02f6b.png",
+    "static/media/html.png": "/kevinuriarte/reactPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/kevinuriarte/reactPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/kevinuriarte/reactPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/kevinuriarte/reactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/kevinuriarte/reactPortfolio/index.html",
+    "main.cc60a82e.css.map": "/kevinuriarte/reactPortfolio/static/css/main.cc60a82e.css.map",
+    "main.8dfb98a8.js.map": "/kevinuriarte/reactPortfolio/static/js/main.8dfb98a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc60a82e.css",
+    "static/js/main.8dfb98a8.js"
+  ]
+}
